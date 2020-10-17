@@ -1,3 +1,3 @@
 # my-website
 Updated
-I am now updating from the example branch
+I am now updating from the update-readme branch.
